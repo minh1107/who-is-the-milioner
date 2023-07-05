@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "3-1",
+      "level": 3,
+      "question": "Who is the author of the novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Emily Brontë", "Charlotte Brontë", "Virginia Woolf"],
+      "answer": "Jane Austen"
+    },
+    {
+      "id": "3-2",
+      "level": 3,
+      "question": "What is the capital city of Canada?",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+      "answer": "Ottawa"
+    },
+    {
+      "id": "3-3",
+      "level": 3,
+      "question": "Who is the Greek god of the sea?",
+      "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+      "answer": "Poseidon"
+    },
+    {
+      "id": "3-4",
+      "level": 3,
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Marie Curie", "Albert Einstein", "Isaac Newton"],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "id": "3-5",
+      "level": 3,
+      "question": "Which country is known as the 'Land of the Pharaohs'?",
+      "options": ["Egypt", "Greece", "India", "China"],
+      "answer": "Egypt"
+    },
+    {
+      "id": "3-6",
+      "level": 3,
+      "question": "What is the largest carnivorous marsupial in the world?",
+      "options": ["Tasmanian devil", "Kangaroo", "Koala", "Wombat"],
+      "answer": "Tasmanian devil"
+    },
+    {
+      "id": "3-7",
+      "level": 3,
+      "question": "Who wrote the novel 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "J.D. Salinger"],
+      "answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": "3-8",
+      "level": 3,
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "options": ["Iceland", "Greenland", "Russia", "Sweden"],
+      "answer": "Iceland"
+    },
+    {
+      "id": "3-9",
+      "level": 3,
+      "question": "Who is the artist famous for painting the 'Scream'?",
+      "options": ["Edvard Munch", "Pablo Picasso", "Claude Monet", "Salvador Dalí"],
+      "answer": "Edvard Munch"
+    },
+    {
+      "id": "3-10",
+      "level": 3,
+      "question": "What is the chemical symbol for the element Iron?",
+      "options": ["Fe", "Au", "Ag", "Cu"],
+      "answer": "Fe"
+    },
+    {
+      "id": "3-11",
+      "level": 3,
+      "question": "Which city is known as the 'City of Love'?",
+      "options": ["Paris", "Rome", "Venice", "Florence"],
+      "answer": "Paris"
+    },
+    {
+      "id": "3-12",
+      "level": 3,
+      "question": "Which country is home to the famous monument Taj Mahal?",
+      "options": ["India", "China", "Japan", "Thailand"],
+      "answer": "India"
+    },
+    {
+      "id": "3-13",
+      "level": 3,
+      "question": "What is the currency of Brazil?",
+      "options": ["Real", "Peso", "Yuan", "Rupee"],
+      "answer": "Real"
+    },
+    {
+      "id": "3-14",
+      "level": 3,
+      "question": "Who composed the Symphony No. 9 in D minor, 'Choral'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "3-15",
+      "level": 3,
+      "question": "What is the largest moon in the solar system?",
+      "options": ["Ganymede", "Titan", "Callisto", "Io"],
+      "answer": "Ganymede"
+    }
+  ] 
+}

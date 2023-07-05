@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "15-1",
+      "level": 15,
+      "question": "Who is the author of the 'The Chronicles of Narnia' book series?",
+      "options": ["C.S. Lewis", "J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin"],
+      "answer": "C.S. Lewis"
+    },
+    {
+      "id": "15-2",
+      "level": 15,
+      "question": "Which country is known as the 'Land Down Under'?",
+      "options": ["Australia", "New Zealand", "South Africa", "Brazil"],
+      "answer": "Australia"
+    },
+    {
+      "id": "15-3",
+      "level": 15,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Atacama Desert", "Antarctica"],
+      "answer": "Sahara Desert"
+    },
+    {
+      "id": "15-4",
+      "level": 15,
+      "question": "Who is the scientist known for the theory of evolution?",
+      "options": ["Charles Darwin", "Isaac Newton", "Galileo Galilei", "Albert Einstein"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "id": "15-5",
+      "level": 15,
+      "question": "What is the largest bird in the world?",
+      "options": ["Ostrich", "Eagle", "Emu", "Albatross"],
+      "answer": "Ostrich"
+    },
+    {
+      "id": "15-6",
+      "level": 15,
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "options": ["Earth", "Neptune", "Uranus", "Saturn"],
+      "answer": "Earth"
+    },
+    {
+      "id": "15-7",
+      "level": 15,
+      "question": "Who wrote the novel '1984'?",
+      "options": ["George Orwell", "Jane Austen", "F. Scott Fitzgerald", "Mark Twain"],
+      "answer": "George Orwell"
+    },
+    {
+      "id": "15-8",
+      "level": 15,
+      "question": "Which country is known as the 'Land of the Pharaohs'?",
+      "options": ["Egypt", "Greece", "Turkey", "Iraq"],
+      "answer": "Egypt"
+    },
+    {
+      "id": "15-9",
+      "level": 15,
+      "question": "Who painted the 'Mona Lisa'?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "15-10",
+      "level": 15,
+      "question": "What is the chemical symbol for the element Silver?",
+      "options": ["Ag", "Au", "Cu", "Fe"],
+      "answer": "Ag"
+    },
+    {
+      "id": "15-11",
+      "level": 15,
+      "question": "Which city is known as the 'City of Lights'?",
+      "options": ["Paris", "New York City", "Sydney", "Tokyo"],
+      "answer": "Paris"
+    },
+    {
+      "id": "15-12",
+      "level": 15,
+      "question": "Which country is home to the famous monument Christ the Redeemer?",
+      "options": ["Brazil", "Spain", "Italy", "France"],
+      "answer": "Brazil"
+    },
+    {
+      "id": "15-13",
+      "level": 15,
+      "question": "What is the currency of Japan?",
+      "options": ["Japanese Yen", "Euro", "Pound", "Dollar"],
+      "answer": "Japanese Yen"
+    },
+    {
+      "id": "15-14",
+      "level": 15,
+      "question": "Who composed the 'Symphony No. 9'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "15-15",
+      "level": 15,
+      "question": "Which animal is known as the 'Gentle Giant'?",
+      "options": ["Elephant", "Giraffe", "Hippopotamus", "Panda"],
+      "answer": "Elephant"
+    }
+  ]
+}

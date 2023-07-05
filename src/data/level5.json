@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "5-1",
+      "level": 5,
+      "question": "Who is the author of the play 'Hamlet'?",
+      "options": ["William Shakespeare", "Tennessee Williams", "Arthur Miller", "Henrik Ibsen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": "5-2",
+      "level": 5,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["Japan", "China", "South Korea", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "id": "5-3",
+      "level": 5,
+      "question": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Makalu"],
+      "answer": "Mount Everest"
+    },
+    {
+      "id": "5-4",
+      "level": 5,
+      "question": "Who developed the theory of relativity?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "id": "5-5",
+      "level": 5,
+      "question": "What is the largest mammal in the world?",
+      "options": ["Blue whale", "Elephant", "Giraffe", "Hippopotamus"],
+      "answer": "Blue whale"
+    },
+    {
+      "id": "5-6",
+      "level": 5,
+      "question": "Which planet is known as the 'Giant of the Solar System'?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "5-7",
+      "level": 5,
+      "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.D. Salinger", "F. Scott Fitzgerald", "George Orwell"],
+      "answer": "Harper Lee"
+    },
+    {
+      "id": "5-8",
+      "level": 5,
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": ["Norway", "Sweden", "Finland", "Denmark"],
+      "answer": "Norway"
+    },
+    {
+      "id": "5-9",
+      "level": 5,
+      "question": "Who painted the 'The Starry Night'?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": "5-10",
+      "level": 5,
+      "question": "What is the chemical symbol for the element Sodium?",
+      "options": ["Na", "Au", "Ag", "Cu"],
+      "answer": "Na"
+    },
+    {
+      "id": "5-11",
+      "level": 5,
+      "question": "Which city is known as the 'City of Lights'?",
+      "options": ["Paris", "Tokyo", "Sydney", "Las Vegas"],
+      "answer": "Paris"
+    },
+    {
+      "id": "5-12",
+      "level": 5,
+      "question": "Which country is home to the famous monument Christ the Redeemer?",
+      "options": ["Brazil", "Argentina", "Colombia", "Mexico"],
+      "answer": "Brazil"
+    },
+    {
+      "id": "5-13",
+      "level": 5,
+      "question": "What is the currency of South Africa?",
+      "options": ["Rand", "Peso", "Euro", "Dollar"],
+      "answer": "Rand"
+    },
+    {
+      "id": "5-14",
+      "level": 5,
+      "question": "Who composed the 'Moonlight Sonata'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "5-15",
+      "level": 5,
+      "question": "Which animal is known for its long neck?",
+      "options": ["Giraffe", "Elephant", "Kangaroo", "Lion"],
+      "answer": "Giraffe"
+    }
+  ]
+}

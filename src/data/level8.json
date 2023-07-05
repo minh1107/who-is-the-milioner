@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "8-1",
+      "level": 8,
+      "question": "Who is the author of the novel 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "J.K. Rowling", "George Orwell", "Ernest Hemingway"],
+      "answer": "Harper Lee"
+    },
+    {
+      "id": "8-2",
+      "level": 8,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["Japan", "China", "South Korea", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "id": "8-3",
+      "level": 8,
+      "question": "What is the largest waterfall in the world?",
+      "options": ["Angel Falls", "Niagara Falls", "Iguazu Falls", "Victoria Falls"],
+      "answer": "Angel Falls"
+    },
+    {
+      "id": "8-4",
+      "level": 8,
+      "question": "Who is the scientist known for the theory of relativity?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "id": "8-5",
+      "level": 8,
+      "question": "What is the largest fish in the world?",
+      "options": ["Whale Shark", "Great White Shark", "Giant Manta Ray", "Blue Whale"],
+      "answer": "Whale Shark"
+    },
+    {
+      "id": "8-6",
+      "level": 8,
+      "question": "Which planet is known as the 'Giant Planet'?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "8-7",
+      "level": 8,
+      "question": "Who wrote the novel 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+      "answer": "J.D. Salinger"
+    },
+    {
+      "id": "8-8",
+      "level": 8,
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": ["Norway", "Sweden", "Finland", "Canada"],
+      "answer": "Norway"
+    },
+    {
+      "id": "8-9",
+      "level": 8,
+      "question": "Who painted the 'The Starry Night'?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Salvador Dalí"],
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": "8-10",
+      "level": 8,
+      "question": "What is the chemical symbol for the element Copper?",
+      "options": ["Cu", "Ag", "Au", "Pt"],
+      "answer": "Cu"
+    },
+    {
+      "id": "8-11",
+      "level": 8,
+      "question": "Which city is known as the 'City of Love'?",
+      "options": ["Paris", "Venice", "Rome", "Florence"],
+      "answer": "Paris"
+    },
+    {
+      "id": "8-12",
+      "level": 8,
+      "question": "Which country is home to the famous monument Christ the Redeemer?",
+      "options": ["Brazil", "Argentina", "Colombia", "Peru"],
+      "answer": "Brazil"
+    },
+    {
+      "id": "8-13",
+      "level": 8,
+      "question": "What is the currency of South Korea?",
+      "options": ["Won", "Yen", "Euro", "Pound"],
+      "answer": "Won"
+    },
+    {
+      "id": "8-14",
+      "level": 8,
+      "question": "Who composed the 'Symphony No. 6'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "8-15",
+      "level": 8,
+      "question": "Which animal is known for its long neck?",
+      "options": ["Giraffe", "Kangaroo", "Zebra", "Koala"],
+      "answer": "Giraffe"
+    }
+  ]
+}

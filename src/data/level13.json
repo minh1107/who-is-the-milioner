@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "13-1",
+      "level": 13,
+      "question": "Who is the author of the 'Harry Potter' book series?",
+      "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+      "answer": "J.K. Rowling"
+    },
+    {
+      "id": "13-2",
+      "level": 13,
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "options": ["Iceland", "Russia", "New Zealand", "Canada"],
+      "answer": "Iceland"
+    },
+    {
+      "id": "13-3",
+      "level": 13,
+      "question": "What is the largest ocean in the world?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": "13-4",
+      "level": 13,
+      "question": "Who is the scientist known for the theory of gravity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Charles Darwin"],
+      "answer": "Isaac Newton"
+    },
+    {
+      "id": "13-5",
+      "level": 13,
+      "question": "What is the tallest mammal in the world?",
+      "options": ["Giraffe", "Elephant", "Hippopotamus", "Gorilla"],
+      "answer": "Giraffe"
+    },
+    {
+      "id": "13-6",
+      "level": 13,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+      "answer": "Mars"
+    },
+    {
+      "id": "13-7",
+      "level": 13,
+      "question": "Who wrote the novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "George Orwell", "F. Scott Fitzgerald", "Leo Tolstoy"],
+      "answer": "Jane Austen"
+    },
+    {
+      "id": "13-8",
+      "level": 13,
+      "question": "Which country is known as the 'Land of Smiles'?",
+      "options": ["Thailand", "Vietnam", "Cambodia", "Laos"],
+      "answer": "Thailand"
+    },
+    {
+      "id": "13-9",
+      "level": 13,
+      "question": "Who painted the 'The Starry Night'?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Salvador Dalí"],
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": "13-10",
+      "level": 13,
+      "question": "What is the chemical symbol for the element Gold?",
+      "options": ["Au", "Ag", "Cu", "Pt"],
+      "answer": "Au"
+    },
+    {
+      "id": "13-11",
+      "level": 13,
+      "question": "Which city is known as the 'Eternal City'?",
+      "options": ["Rome", "Athens", "Cairo", "Jerusalem"],
+      "answer": "Rome"
+    },
+    {
+      "id": "13-12",
+      "level": 13,
+      "question": "Which country is home to the famous monument Taj Mahal?",
+      "options": ["India", "China", "Indonesia", "Egypt"],
+      "answer": "India"
+    },
+    {
+      "id": "13-13",
+      "level": 13,
+      "question": "What is the currency of Canada?",
+      "options": ["Canadian Dollar", "Euro", "Pound", "Yen"],
+      "answer": "Canadian Dollar"
+    },
+    {
+      "id": "13-14",
+      "level": 13,
+      "question": "Who composed the 'Symphony No. 5'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "13-15",
+      "level": 13,
+      "question": "Which animal is known for its ability to fly?",
+      "options": ["Eagle", "Lion", "Penguin", "Tiger"],
+      "answer": "Eagle"
+    }
+  ]
+}

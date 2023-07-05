@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "7-1",
+      "level": 7,
+      "question": "Who is the author of the novel 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "J.D. Salinger"],
+      "answer": "F. Scott Fitzgerald"
+    },
+    {
+      "id": "7-2",
+      "level": 7,
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "options": ["Iceland", "Greenland", "Canada", "Norway"],
+      "answer": "Iceland"
+    },
+    {
+      "id": "7-3",
+      "level": 7,
+      "question": "What is the largest ocean in the world?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": "7-4",
+      "level": 7,
+      "question": "Who is the scientist known for the theory of gravity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+      "answer": "Isaac Newton"
+    },
+    {
+      "id": "7-5",
+      "level": 7,
+      "question": "What is the largest bird in the world?",
+      "options": ["Ostrich", "Eagle", "Albatross", "Penguin"],
+      "answer": "Ostrich"
+    },
+    {
+      "id": "7-6",
+      "level": 7,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Mars", "Mercury", "Venus", "Pluto"],
+      "answer": "Mars"
+    },
+    {
+      "id": "7-7",
+      "level": 7,
+      "question": "Who wrote the novel 'Moby-Dick'?",
+      "options": ["Herman Melville", "Jane Austen", "Emily Dickinson", "Mark Twain"],
+      "answer": "Herman Melville"
+    },
+    {
+      "id": "7-8",
+      "level": 7,
+      "question": "Which country is known as the 'Land of Smiles'?",
+      "options": ["Thailand", "Indonesia", "Philippines", "Vietnam"],
+      "answer": "Thailand"
+    },
+    {
+      "id": "7-9",
+      "level": 7,
+      "question": "Who painted the 'The Birth of Venus'?",
+      "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Michelangelo"],
+      "answer": "Sandro Botticelli"
+    },
+    {
+      "id": "7-10",
+      "level": 7,
+      "question": "What is the chemical symbol for the element Gold?",
+      "options": ["Au", "Ag", "Cu", "Pt"],
+      "answer": "Au"
+    },
+    {
+      "id": "7-11",
+      "level": 7,
+      "question": "Which city is known as the 'Eternal City'?",
+      "options": ["Rome", "Athens", "Jerusalem", "Cairo"],
+      "answer": "Rome"
+    },
+    {
+      "id": "7-12",
+      "level": 7,
+      "question": "Which country is home to the famous monument Taj Mahal?",
+      "options": ["India", "China", "Egypt", "Mexico"],
+      "answer": "India"
+    },
+    {
+      "id": "7-13",
+      "level": 7,
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Dollar", "Euro", "Pound"],
+      "answer": "Yen"
+    },
+    {
+      "id": "7-14",
+      "level": 7,
+      "question": "Who composed the 'Symphony No. 5'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "7-15",
+      "level": 7,
+      "question": "Which animal is known for its black and white stripes?",
+      "options": ["Zebra", "Panda", "Tiger", "Leopard"],
+      "answer": "Zebra"
+    }
+  ]
+}

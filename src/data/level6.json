@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "6-1",
+      "level": 6,
+      "question": "Who is the author of the novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Charles Dickens", "Emily Bronte", "Charlotte Bronte"],
+      "answer": "Jane Austen"
+    },
+    {
+      "id": "6-2",
+      "level": 6,
+      "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+      "options": ["Bhutan", "Nepal", "Tibet", "Myanmar"],
+      "answer": "Bhutan"
+    },
+    {
+      "id": "6-3",
+      "level": 6,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Patagonian Desert"],
+      "answer": "Sahara Desert"
+    },
+    {
+      "id": "6-4",
+      "level": 6,
+      "question": "Who is the scientist known for the theory of evolution?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Marie Curie"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "id": "6-5",
+      "level": 6,
+      "question": "What is the largest reptile in the world?",
+      "options": ["Saltwater crocodile", "Komodo dragon", "Anaconda", "Green sea turtle"],
+      "answer": "Saltwater crocodile"
+    },
+    {
+      "id": "6-6",
+      "level": 6,
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "options": ["Earth", "Neptune", "Uranus", "Saturn"],
+      "answer": "Earth"
+    },
+    {
+      "id": "6-7",
+      "level": 6,
+      "question": "Who wrote the novel '1984'?",
+      "options": ["George Orwell", "Ray Bradbury", "Aldous Huxley", "Margaret Atwood"],
+      "answer": "George Orwell"
+    },
+    {
+      "id": "6-8",
+      "level": 6,
+      "question": "Which country is known as the 'Land of the Long White Cloud'?",
+      "options": ["New Zealand", "Australia", "Canada", "Sweden"],
+      "answer": "New Zealand"
+    },
+    {
+      "id": "6-9",
+      "level": 6,
+      "question": "Who painted the 'The Last Supper'?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Rembrandt"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "6-10",
+      "level": 6,
+      "question": "What is the chemical symbol for the element Silver?",
+      "options": ["Ag", "Au", "Cu", "Pt"],
+      "answer": "Ag"
+    },
+    {
+      "id": "6-11",
+      "level": 6,
+      "question": "Which city is known as the 'City of Dreams'?",
+      "options": ["Mumbai", "Los Angeles", "Dubai", "New York City"],
+      "answer": "Mumbai"
+    },
+    {
+      "id": "6-12",
+      "level": 6,
+      "question": "Which country is home to the famous monument Petra?",
+      "options": ["Jordan", "Egypt", "Greece", "Turkey"],
+      "answer": "Jordan"
+    },
+    {
+      "id": "6-13",
+      "level": 6,
+      "question": "What is the currency of Russia?",
+      "options": ["Ruble", "Yen", "Euro", "Pound"],
+      "answer": "Ruble"
+    },
+    {
+      "id": "6-14",
+      "level": 6,
+      "question": "Who composed the 'Symphony No. 9'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "6-15",
+      "level": 6,
+      "question": "Which animal is known for its large tusks?",
+      "options": ["Elephant", "Walrus", "Hippopotamus", "Rhino"],
+      "answer": "Elephant"
+    }
+  ]
+}

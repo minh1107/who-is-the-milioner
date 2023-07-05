@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "4-1",
+      "level": 4,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Arthur Miller", "Anton Chekhov", "Henrik Ibsen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": "4-2",
+      "level": 4,
+      "question": "Which country is known as the 'Land Down Under'?",
+      "options": ["Australia", "New Zealand", "South Africa", "Argentina"],
+      "answer": "Australia"
+    },
+    {
+      "id": "4-3",
+      "level": 4,
+      "question": "What is the world's longest river?",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "id": "4-4",
+      "level": 4,
+      "question": "Who discovered the theory of gravity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+      "answer": "Isaac Newton"
+    },
+    {
+      "id": "4-5",
+      "level": 4,
+      "question": "What is the largest bird in the world?",
+      "options": ["Ostrich", "Eagle", "Albatross", "Penguin"],
+      "answer": "Ostrich"
+    },
+    {
+      "id": "4-6",
+      "level": 4,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Mars", "Mercury", "Venus", "Uranus"],
+      "answer": "Mars"
+    },
+    {
+      "id": "4-7",
+      "level": 4,
+      "question": "Who wrote the novel 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "F. Scott Fitzgerald", "Harper Lee", "George Orwell"],
+      "answer": "J.D. Salinger"
+    },
+    {
+      "id": "4-8",
+      "level": 4,
+      "question": "Which country is known as the 'Land of Smiles'?",
+      "options": ["Thailand", "Japan", "China", "Vietnam"],
+      "answer": "Thailand"
+    },
+    {
+      "id": "4-9",
+      "level": 4,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Rembrandt"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "4-10",
+      "level": 4,
+      "question": "What is the chemical symbol for the element Gold?",
+      "options": ["Au", "Ag", "Cu", "Pt"],
+      "answer": "Au"
+    },
+    {
+      "id": "4-11",
+      "level": 4,
+      "question": "Which city is known as the 'Eternal City'?",
+      "options": ["Rome", "Athens", "Cairo", "Istanbul"],
+      "answer": "Rome"
+    },
+    {
+      "id": "4-12",
+      "level": 4,
+      "question": "Which country is home to the famous monument Machu Picchu?",
+      "options": ["Peru", "Mexico", "Brazil", "Chile"],
+      "answer": "Peru"
+    },
+    {
+      "id": "4-13",
+      "level": 4,
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Won", "Dollar", "Euro"],
+      "answer": "Yen"
+    },
+    {
+      "id": "4-14",
+      "level": 4,
+      "question": "Who composed the 'Four Seasons'?",
+      "options": ["Antonio Vivaldi", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+      "answer": "Antonio Vivaldi"
+    },
+    {
+      "id": "4-15",
+      "level": 4,
+      "question": "Which animal is known for its black and white stripes?",
+      "options": ["Zebra", "Tiger", "Giraffe", "Leopard"],
+      "answer": "Zebra"
+    }
+  ]
+}

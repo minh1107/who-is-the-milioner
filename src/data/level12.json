@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "12-1",
+      "level": 12,
+      "question": "Who is the author of the novel '1984'?",
+      "options": ["George Orwell", "Ray Bradbury", "Aldous Huxley", "Margaret Atwood"],
+      "answer": "George Orwell"
+    },
+    {
+      "id": "12-2",
+      "level": 12,
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": ["Norway", "Sweden", "Finland", "Denmark"],
+      "answer": "Norway"
+    },
+    {
+      "id": "12-3",
+      "level": 12,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Antarctic Desert", "Arabian Desert"],
+      "answer": "Antarctic Desert"
+    },
+    {
+      "id": "12-4",
+      "level": 12,
+      "question": "Who is the scientist known for the theory of evolution?",
+      "options": ["Charles Darwin", "Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "id": "12-5",
+      "level": 12,
+      "question": "What is the largest reptile in the world?",
+      "options": ["Saltwater Crocodile", "Komodo Dragon", "Nile Crocodile", "Green Anaconda"],
+      "answer": "Saltwater Crocodile"
+    },
+    {
+      "id": "12-6",
+      "level": 12,
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "options": ["Earth", "Mercury", "Venus", "Mars"],
+      "answer": "Earth"
+    },
+    {
+      "id": "12-7",
+      "level": 12,
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": ["William Shakespeare", "George Orwell", "F. Scott Fitzgerald", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": "12-8",
+      "level": 12,
+      "question": "Which country is known as the 'Land Down Under'?",
+      "options": ["Australia", "New Zealand", "South Africa", "Argentina"],
+      "answer": "Australia"
+    },
+    {
+      "id": "12-9",
+      "level": 12,
+      "question": "Who painted the 'Mona Lisa'?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "12-10",
+      "level": 12,
+      "question": "What is the chemical symbol for the element Silver?",
+      "options": ["Ag", "Au", "Cu", "Pt"],
+      "answer": "Ag"
+    },
+    {
+      "id": "12-11",
+      "level": 12,
+      "question": "Which city is known as the 'City of Lights'?",
+      "options": ["Paris", "New York", "Tokyo", "Sydney"],
+      "answer": "Paris"
+    },
+    {
+      "id": "12-12",
+      "level": 12,
+      "question": "Which country is home to the famous monument Petra?",
+      "options": ["Jordan", "Egypt", "Lebanon", "Saudi Arabia"],
+      "answer": "Jordan"
+    },
+    {
+      "id": "12-13",
+      "level": 12,
+      "question": "What is the currency of South Korea?",
+      "options": ["South Korean Won", "Japanese Yen", "Chinese Yuan", "Australian Dollar"],
+      "answer": "South Korean Won"
+    },
+    {
+      "id": "12-14",
+      "level": 12,
+      "question": "Who composed the 'Symphony No. 9'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "12-15",
+      "level": 12,
+      "question": "Which animal is known for its ability to change color?",
+      "options": ["Chameleon", "Peacock", "Octopus", "Cuttlefish"],
+      "answer": "Chameleon"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "9-1",
+      "level": 9,
+      "question": "Who is the author of the novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Charles Dickens", "Leo Tolstoy", "Emily Bronte"],
+      "answer": "Jane Austen"
+    },
+    {
+      "id": "9-2",
+      "level": 9,
+      "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+      "options": ["Bhutan", "Nepal", "Tibet", "Myanmar"],
+      "answer": "Bhutan"
+    },
+    {
+      "id": "9-3",
+      "level": 9,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Antarctic Desert"],
+      "answer": "Sahara Desert"
+    },
+    {
+      "id": "9-4",
+      "level": 9,
+      "question": "Who is the scientist known for the theory of evolution?",
+      "options": ["Charles Darwin", "Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "id": "9-5",
+      "level": 9,
+      "question": "What is the largest mammal in the world?",
+      "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "id": "9-6",
+      "level": 9,
+      "question": "Which planet is known as the 'Ringed Planet'?",
+      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "id": "9-7",
+      "level": 9,
+      "question": "Who wrote the novel '1984'?",
+      "options": ["George Orwell", "F. Scott Fitzgerald", "Ernest Hemingway", "J.D. Salinger"],
+      "answer": "George Orwell"
+    },
+    {
+      "id": "9-8",
+      "level": 9,
+      "question": "Which country is known as the 'Land of the Long White Cloud'?",
+      "options": ["New Zealand", "Australia", "Canada", "Sweden"],
+      "answer": "New Zealand"
+    },
+    {
+      "id": "9-9",
+      "level": 9,
+      "question": "Who painted the 'Mona Lisa'?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "9-10",
+      "level": 9,
+      "question": "What is the chemical symbol for the element Silver?",
+      "options": ["Ag", "Au", "Cu", "Pt"],
+      "answer": "Ag"
+    },
+    {
+      "id": "9-11",
+      "level": 9,
+      "question": "Which city is known as the 'City of Lights'?",
+      "options": ["Paris", "Las Vegas", "Sydney", "Tokyo"],
+      "answer": "Paris"
+    },
+    {
+      "id": "9-12",
+      "level": 9,
+      "question": "Which country is home to the famous monument Petra?",
+      "options": ["Jordan", "Egypt", "Greece", "Turkey"],
+      "answer": "Jordan"
+    },
+    {
+      "id": "9-13",
+      "level": 9,
+      "question": "What is the currency of Russia?",
+      "options": ["Ruble", "Yuan", "Euro", "Pound"],
+      "answer": "Ruble"
+    },
+    {
+      "id": "9-14",
+      "level": 9,
+      "question": "Who composed the 'Symphony No. 9'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "9-15",
+      "level": 9,
+      "question": "Which animal is known for its speed and spots?",
+      "options": ["Cheetah", "Leopard", "Tiger", "Lion"],
+      "answer": "Cheetah"
+    }
+  ]
+}

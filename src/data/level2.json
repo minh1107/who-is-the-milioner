@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "2-1",
+      "level": 2,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+      "answer": "Michelangelo"
+    },
+    {
+      "id": "2-2",
+      "level": 2,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["Japan", "China", "South Korea", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "id": "2-3",
+      "level": 2,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Kalahari Desert"],
+      "answer": "Sahara Desert"
+    },
+    {
+      "id": "2-4",
+      "level": 2,
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "id": "2-5",
+      "level": 2,
+      "question": "What is the largest animal on Earth?",
+      "options": ["Blue whale", "Elephant", "Giraffe", "Hippopotamus"],
+      "answer": "Blue whale"
+    },
+    {
+      "id": "2-6",
+      "level": 2,
+      "question": "Which planet is known as the 'Giant Planet'?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "2-7",
+      "level": 2,
+      "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "F. Scott Fitzgerald", "Mark Twain", "Ernest Hemingway"],
+      "answer": "Harper Lee"
+    },
+    {
+      "id": "2-8",
+      "level": 2,
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": ["Norway", "Sweden", "Finland", "Canada"],
+      "answer": "Norway"
+    },
+    {
+      "id": "2-9",
+      "level": 2,
+      "question": "Who is the author of the novel '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Margaret Atwood"],
+      "answer": "George Orwell"
+    },
+    {
+      "id": "2-10",
+      "level": 2,
+      "question": "What is the chemical symbol for the element Silver?",
+      "options": ["Ag", "Au", "Cu", "Pt"],
+      "answer": "Ag"
+    },
+    {
+      "id": "2-11",
+      "level": 2,
+      "question": "Which city is known as the 'Big Apple'?",
+      "options": ["New York City", "Los Angeles", "Chicago", "San Francisco"],
+      "answer": "New York City"
+    },
+    {
+      "id": "2-12",
+      "level": 2,
+      "question": "Which country is home to the famous monument Stonehenge?",
+      "options": ["United Kingdom", "France", "Italy", "Egypt"],
+      "answer": "United Kingdom"
+    },
+    {
+      "id": "2-13",
+      "level": 2,
+      "question": "What is the currency of Germany?",
+      "options": ["Euro", "Pound", "Yen", "Dollar"],
+      "answer": "Euro"
+    },
+    {
+      "id": "2-14",
+      "level": 2,
+      "question": "Who composed the Symphony No. 5 in C minor?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "2-15",
+      "level": 2,
+      "question": "Which gas makes up the majority of the Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+      "answer": "Nitrogen"
+    }
+  ]
+}

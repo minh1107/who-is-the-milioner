@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": "14-1",
+      "level": 14,
+      "question": "Who is the author of the 'Lord of the Rings' book series?",
+      "options": ["J.R.R. Tolkien", "George R.R. Martin", "Stephen King", "C.S. Lewis"],
+      "answer": "J.R.R. Tolkien"
+    },
+    {
+      "id": "14-2",
+      "level": 14,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["Japan", "China", "Korea", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "id": "14-3",
+      "level": 14,
+      "question": "What is the largest volcano in the world?",
+      "options": ["Mauna Loa", "Mount Kilimanjaro", "Mount Vesuvius", "Mount Everest"],
+      "answer": "Mauna Loa"
+    },
+    {
+      "id": "14-4",
+      "level": 14,
+      "question": "Who is the scientist known for the theory of relativity?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Charles Darwin"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "id": "14-5",
+      "level": 14,
+      "question": "What is the largest fish in the world?",
+      "options": ["Whale Shark", "Great White Shark", "Blue Whale", "Giant Squid"],
+      "answer": "Whale Shark"
+    },
+    {
+      "id": "14-6",
+      "level": 14,
+      "question": "Which planet is known as the 'Giant Planet'?",
+      "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "14-7",
+      "level": 14,
+      "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "F. Scott Fitzgerald", "George Orwell", "Emily Brontë"],
+      "answer": "Harper Lee"
+    },
+    {
+      "id": "14-8",
+      "level": 14,
+      "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+      "options": ["Bhutan", "Nepal", "Tibet", "Myanmar"],
+      "answer": "Bhutan"
+    },
+    {
+      "id": "14-9",
+      "level": 14,
+      "question": "Who painted the 'The Last Supper'?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "14-10",
+      "level": 14,
+      "question": "What is the chemical symbol for the element Iron?",
+      "options": ["Fe", "Au", "Cu", "Ag"],
+      "answer": "Fe"
+    },
+    {
+      "id": "14-11",
+      "level": 14,
+      "question": "Which city is known as the 'City of Love'?",
+      "options": ["Paris", "Rome", "Venice", "Vienna"],
+      "answer": "Paris"
+    },
+    {
+      "id": "14-12",
+      "level": 14,
+      "question": "Which country is home to the famous monument Machu Picchu?",
+      "options": ["Peru", "Brazil", "Argentina", "Mexico"],
+      "answer": "Peru"
+    },
+    {
+      "id": "14-13",
+      "level": 14,
+      "question": "What is the currency of Brazil?",
+      "options": ["Brazilian Real", "Euro", "Pound", "Yen"],
+      "answer": "Brazilian Real"
+    },
+    {
+      "id": "14-14",
+      "level": 14,
+      "question": "Who composed the 'Symphony No. 6'?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    {
+      "id": "14-15",
+      "level": 14,
+      "question": "Which animal is known as the 'King of the Beasts'?",
+      "options": ["Lion", "Tiger", "Bear", "Elephant"],
+      "answer": "Lion"
+    }
+  ]
+}
